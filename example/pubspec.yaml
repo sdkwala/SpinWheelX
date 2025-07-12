@@ -1,0 +1,29 @@
+name: example
+description: A new Flutter project.
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.17.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  lottie: ^2.7.0 # For Lottie animations
+  
+  # Depend on the local spin_wheel SDK
+  spin_wheel:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  
+  # Tell Flutter about the asset files
+  assets:
+    - assets/

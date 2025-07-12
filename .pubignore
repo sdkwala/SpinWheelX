@@ -1,0 +1,23 @@
+# Ignore platform-specific build folders
+/android
+/ios
+/linux
+/macos
+/web
+/windows
+
+# Ignore the example app directory
+/example
+
+# Ignore design and outline files
+/sdk_outline
+/sdk_outline.pdf
+/Ref wheel
+
+# Ignore IDE and tool files
+.idea/
+.vscode/
+.metadata
+
+# Ignore build outputs
+build/
