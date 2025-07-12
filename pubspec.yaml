@@ -1,5 +1,5 @@
 name: spin_wheel
-version: 1.2.2
+version: 1.2.3
 
 description: >
   A highly customizable, open-source spin wheel widget for Flutter. Perfect for games, promotions, lucky draws, and interactive apps. Supports custom layouts, animations, modular plugins, and vibrant backgrounds.

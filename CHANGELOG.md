@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.2.3] - 2024-06-30
+### Changed
+- Minor enhancement and maintenance update.
+
 ## [1.2.0] - 2025-06-30
 ### Added
 - Tabbed demo UI with Basic, Gradient, and Image tabs
