@@ -5,7 +5,6 @@
 [![Website](https://img.shields.io/badge/Website-www.sdkwala.com-blue)](https://www.sdkwala.com)
 
 ![Spin Wheel Flutter SDK preview](/assets/spinwheelsdk-zp.gif)
-![Spin Wheel Preview](https://raw.githubusercontent.com/sdkwala/scratch-card-flutter/main/assets/spinwheelsdk-zp.gif)
 
 
 A highly customizable, open-source **Flutter spin wheel** widget for Dart and Flutter apps. Perfect for games, promotions, lucky draws, prize wheels, and interactive experiences.
@@ -45,7 +44,7 @@ Add to your `pubspec.yaml`:
 dependencies:
   spin_wheel:
     git:
-      url: https://github.com/sdkwala/scratch-card-flutter
+      url: https://github.com/sdkwala/SpinWheelX.git
 ```
 Then run:
 ```sh
@@ -167,7 +166,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## 💬 Contact & Support
 - Author: sdkwala.com
-- GitHub: [SpinWheenX](https://github.com/sdkwala/scratch-card-flutter)
+- GitHub: [SpinWheenX](https://github.com/sdkwala/SpinWheelX.git)
 - Issues: Use the GitHub issues tab for bug reports and feature requests.
 
 ---
