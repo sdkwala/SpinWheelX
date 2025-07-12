@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Website](https://img.shields.io/badge/Website-www.sdkwala.com-blue)](https://www.sdkwala.com)
 
-![Spin Wheel Flutter SDK preview](/assets/spinwheelsdk-zp.gif)
+![Spin Wheel Preview](https://raw.githubusercontent.com/sdkwala/scratch-card-flutter/main/assets/spinwheelsdk-zp.gif)
 
 A highly customizable, open-source **Flutter spin wheel** widget for Dart and Flutter apps. Perfect for games, promotions, lucky draws, prize wheels, and interactive experiences.
 
